@@ -1,0 +1,64 @@
+  [{
+    "id": 1,
+    "name": "Math Game",
+    "info": "to be added...",
+    "linkTo": "/math-game",
+    "howToPlay":
+      "The only aim of the game is to solve as many mathematical problems as yo can. The game begins easy and as you progress the problems become more complex",
+    "gameType": "Single player game"
+  },
+  {
+    "id": 2,
+    "name": "Snake Game",
+    "info": "to be added...",
+    "linkTo": "/snake-game",
+    "howToPlay":
+      "There are only two rules you must follow when playing: don't hit a wall and don't bite your own tail. Crashing into a wall or your tail will end the game immediately. Your high score is calculated based on the number of squares you added to the snake. You win the game when there is no more room for your snake to grow",
+    "gameType": "Single player game"
+  },
+  {
+    "id": 3,
+    "name": "Tic Tac Toe",
+    "info": "to be added...",
+    "linkTo": "/tic-tac-toe",
+    "howToPlay":
+      "The game is played on a grid that's 3 squares by 3 squares. You are X, your friend is O. Players take turns putting their marks in empty squares. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner. When all 9 squares are full, the game is over.",
+    "gameType": "Multiplayer player game"
+  },
+  {
+    "id": 4,
+    "name": "Memory Game",
+    "info": "to be added...",
+    "linkTo": "/memory-game",
+    "howToPlay":
+      "Players choose two cards at a time and try to find two cards that are exactly the same. If they find two cards that match then they remove the cards from the middle and keep them in front of them. The player continues until they are unable to find a matching pair, with the game then moving on to the next player to the left. If players are unable to match two cards together then they have to turn the cards back over face down. The game continues until all the cards have been successfully paired up. The winner is the player who has the most pairs of cards at the end of the game.",
+    "gameType": "Single or Multiplayer game"
+  },
+  {
+    "id": 5,
+    "name": "2048",
+    "info": "to be added...",
+    "linkTo": "/2048",
+    "howToPlay":
+      "The rules are also simple. You just need to move the tiles and every time you move one, another tile pops up in a random manner anywhere in the box. When two tiles with the same number on them collide with one another as you move them, they will merge into one tile with the sum of the numbers written on them initially.",
+    "gameType": "Single player game"
+  },
+  {
+    "id": 6,
+    "name": "Mine Sweeper",
+    "info": "to be added...",
+    "linkTo": "/mine-sweeper",
+    "howToPlay":
+      "Minesweeper is a game where mines are hidden in a grid of squares. Safe squares have numbers telling you how many mines touch the square. You can use the number clues to solve the game by opening all of the safe squares. If you click on a mine you lose the game! Minesweeper always makes the first click safe. A common strategy for starting games is to randomly click until you get a big opening with lots of numbers. If you flag all of the mines touching a number, chording on the number opens the remaining squares.",
+    "gameType": "Single player game"
+  },
+  {
+    "id": 7,
+    "name": "Quiz Game",
+    "info": "to be added...",
+    "linkTo": "/quiz-game",
+    "howToPlay":
+      "There are only two rules you must follow when playing: don't hit a wall and don't bite your own tail. Crashing into a wall or your tail will end the game immediately. Your high score is calculated based on the number of squares you added to the snake. You win the game when there is no more room for your snake to grow",
+    "gameType": "Single player game"
+  }
+]

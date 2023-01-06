@@ -6,7 +6,7 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;  
     outline: none;
     box-sizing: border-box;
-    border:1px solid red;
+    /* border:1px solid red; */
   }
   body{
     font-family: 'Rubik', sans-serif;
